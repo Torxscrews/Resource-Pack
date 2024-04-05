@@ -15,10 +15,28 @@
             }
         ]
     },
-    "bgm.mediterraneanharbor": {
+    "bgm.mediterraneanharbor.mediterraneanharbor": {
         "sounds": [
             {
-                "name": "bgm/MediterraneanHarbor",
+                "name": "bgm/mediterraneanHarbor/MediterraneanHarbor",
+                "stream": true,
+                "attenuation_ distance" : 5
+            }
+        ]
+    },
+    "bgm.mediterraneanharbor.to_voglio_bene_assaje": {
+        "sounds": [
+            {
+                "name": "bgm/mediterraneanHarbor/To_Voglio_bene_assaje",
+                "stream": true,
+                "attenuation_ distance" : 5
+            }
+        ]
+    },
+    "bgm.mediterraneanharbor.zio_dell_america": {
+        "sounds": [
+            {
+                "name": "bgm/mediterraneanHarbor/Zio_Dell_America",
                 "stream": true,
                 "attenuation_ distance" : 5
             }
