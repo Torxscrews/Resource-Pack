@@ -1,11 +1,11 @@
 @echo off
-REM zipを解凍
+
 REM powershell Expand-Archive -Path "D:\Downloads\Resource-Pack-main.zip" -DestinationPath "D:\Downloads\Resource-Pack-main"
 
-REM 解凍したファイルから対象ファイルを圧縮
+REM 隗｣蜃阪＠縺溘ヵ繧｡繧､繝ｫ縺九ｉ蟇ｾ雎｡繝輔ぃ繧､繝ｫ繧貞悸邵ｮ
 REM powershell Compress-Archive -Force -Path D:\Downloads\Resource-Pack-main\Resource-Pack-main -DestinationPath "D:\Downloads\Resource-Pack-main.zip"
 
-REM ハッシュ作成
+REM 繝上ャ繧ｷ繝･菴懈��
 certutil -hashfile "D:\Downloads\release.zip" sha1
 
 REM del "D:\Downloads\Resource-Pack-main.zip"
