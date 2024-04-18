@@ -50,6 +50,14 @@
             }
         ]
     },
+    "bgm.journey_to_fantasy_springs": {
+        "sounds": [
+            {
+                "name": "bgm/Journey_to_Fantasy_Springs",
+                "stream": true
+            }
+        ]
+    },
     "bgm.towerofterror.lobby1": {
         "sounds": [
             {
