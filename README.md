@@ -2,10 +2,8 @@
 
 1 ローカルファイルをプッシュ 
 
-2 アクション Create Archive を実行して release ファイルを作成
+2 `Download release` でファイルをダウンロード
 
-3 Download release でファイルをダウンロード
+3 `GetSHA1` でハッシュを作成
 
-4 GetSHA1 でハッシュを作成
-
-5 resource-pack-sha1に適用
+4 `resource-pack-sha1`に適用
