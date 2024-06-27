@@ -10,6 +10,5 @@ certutil -hashfile "D:\Downloads\release.zip" sha1
 
 REM del "D:\Downloads\Resource-Pack-main.zip"
 REM del "D:\Downloads\Resource-Pack-main"
-
-del "D:\Downloads\release.zip"
+    del "D:\Downloads\release.zip"
 pause
