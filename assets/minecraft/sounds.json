@@ -1,6 +1,7 @@
 {
     "bgm.1": {
         "sounds": [
+            "bgm/1",
             {
                 "name": "bgm/1",
                 "stream": true
