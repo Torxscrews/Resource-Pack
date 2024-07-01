@@ -305,5 +305,13 @@
                 "stream": true
             }
         ]
+    },
+    "attraction.towerofterror.scream": {
+        "sounds": [
+            {
+                "name": "attraction/towerofterror/scream",
+                "stream": true
+            }
+        ]
     }
 }
