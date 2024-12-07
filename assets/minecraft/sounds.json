@@ -1,318 +1,236 @@
 {
     "bgm.1": {
+        "category": "master",
         "sounds": [
-            "bgm/1",
-            {
-                "name": "bgm/1",
-                "stream": true
-            }
+            "bgm/1"
         ]
     },
     "bgm.audio_check_track": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/Audio_Check_Track",
-                "stream": true
-            }
+            "bgm/audiochecktrack"
         ]
     },
     "bgm.mediterraneanharbor.mediterraneanharbor": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/mediterraneanHarbor/MediterraneanHarbor",
-                "stream": true,
-                "attenuation_ distance" : 5
-            }
+            "bgm/mediterraneanharbor/mediterraneanharbor"
         ]
     },
-    "bgm.mediterraneanharbor.to_voglio_bene_assaje": {
+    "bgm.mediterraneanharbor.tovogliobeneassaje": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/mediterraneanHarbor/To_Voglio_bene_assaje",
-                "stream": true,
-                "attenuation_ distance" : 5
-            }
+            "bgm/mediterraneanharbor/tovogliobeneassaje"
         ]
     },
-    "bgm.mediterraneanharbor.zio_dell_america": {
+    "bgm.mediterraneanharbor.ziodellamerica": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/mediterraneanHarbor/Zio_Dell_America",
-                "stream": true,
-                "attenuation_ distance" : 5
-            }
+            "bgm/mediterraneanharbor/ziodellamerica"
         ]
     },
     "bgm.mysteriousisland": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/MysteriousIsland",
-                "stream": true
-            }
+            "bgm/mysteriousisland"
         ]
     },
-    "bgm.journey_to_fantasy_springs": {
+    "bgm.journeytofantasysprings": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/Journey_to_Fantasy_Springs",
-                "stream": true
-            }
+            "bgm/journeytofantasysprings"
         ]
     },
     "bgm.towerofterror.lobby1": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/towerofterror/towerofterror_lobby1",
-                "stream": true
-            }
+            "bgm/towerofterror/towerofterrorlobby1"
         ]
     },
     "bgm.towerofterror.qline1": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/towerofterror/towerofterror_qline1",
-                "stream": true
-            }
+            "bgm/towerofterror/towerofterrorqline1"
         ]
     },
     "bgm.towerofterror.qline2": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "bgm/towerofterror/towerofterror_qline2",
-                "stream": true
-            }
+            "bgm/towerofterror/towerofterrorqline2"
         ]
     },
     "attraction.centeroftheearth.road12": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road12",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road12"
         ]
     },
     "attraction.centeroftheearth.ev": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/ev",
-                "stream": true
-            }
+            "attraction/centeroftheearth/ev"
         ]
     },
     "attraction.centeroftheearth.notice": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/notice",
-                "stream": true
-            }
+            "attraction/centeroftheearth/notice"
         ]
     },
     "attraction.centeroftheearth.road9": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road9",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road9"
         ]
     },
     "attraction.centeroftheearth.road10": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road10",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road10"
         ]
     },
     "attraction.centeroftheearth.road10r": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road10r",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road10r"
         ]
     },
     "attraction.centeroftheearth.road3": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road3",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road3"
         ]
     },
     "attraction.centeroftheearth.road4": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road4",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road4"
         ]
     },
     "attraction.centeroftheearth.road7": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road7",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road7"
         ]
     },
     "attraction.centeroftheearth.road8": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road8",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road8"
         ]
     },
     "attraction.centeroftheearth.road5": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road5",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road5"
         ]
     },
     "attraction.centeroftheearth.road6": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road6",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road6"
         ]
     },
     "attraction.centeroftheearth.road11": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road11",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road11"
         ]
     },
     "attraction.centeroftheearth.road11r": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road11r",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road11r"
         ]
     },
     "attraction.centeroftheearth.road1": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road1",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road1"
         ]
     },
     "attraction.centeroftheearth.road2": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/road2",
-                "stream": true
-            }
+            "attraction/centeroftheearth/road2"
         ]
     },
     "attraction.centeroftheearth.exitline": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/exitline",
-                "stream": true
-            }
+            "attraction/centeroftheearth/exitline"
         ]
     },
     "attraction.centeroftheearth.qliner": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/centeroftheearth/qliner",
-                "stream": true
-            }
+            "attraction/centeroftheearth/qliner"
         ]
     },
     "attraction.towerofterror.main": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/main",
-                "stream": true
-            }
+            "attraction/towerofterror/main"
         ]
     },
     "attraction.towerofterror.preshow": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/preshow",
-                "stream": true
-            }
+            "attraction/towerofterror/preshow"
         ]
     },
-    "attraction.towerofterror.preshow_sub": {
+    "attraction.towerofterror.preshowsub": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/preshow_sub",
-                "stream": true
-            }
+            "attraction/towerofterror/preshowsub"
         ]
     },
-    "attraction.towerofterror.semi_preshow": {
+    "attraction.towerofterror.semipreshow": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/semi_preshow",
-                "stream": true
-            }
+            "attraction/towerofterror/semipreshow"
         ]
     },
-    "attraction.towerofterror.info_announcements": {
+    "attraction.towerofterror.infoannouncements": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/InformationAnnouncements",
-                "stream": true
-            }
+            "attraction/towerofterror/informationannouncements"
         ]
     },
-    "attraction.towerofterror.pre_boarding_announcement": {
+    "attraction.towerofterror.preboardingannouncement": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/PreboardingAnnouncement",
-                "stream": true
-            }
+            "attraction/towerofterror/preboardingannouncement"
         ]
     },
     "attraction.towerofterror.stop1": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/stop1",
-                "stream": true
-            }
+            "attraction/towerofterror/stop1"
         ]
     },
     "attraction.towerofterror.stop2": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/stop2",
-                "stream": true
-            }
+            "attraction/towerofterror/stop2"
         ]
     },
     "attraction.towerofterror.rideexit": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/RideExit",
-                "stream": true
-            }
+            "attraction/towerofterror/rideexit"
         ]
     },
     "attraction.towerofterror.memorabilia": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/Memorabilia",
-                "stream": true
-            }
+            "attraction/towerofterror/memorabilia"
         ]
     },
     "attraction.towerofterror.scream": {
+        "category": "master",
         "sounds": [
-            {
-                "name": "attraction/towerofterror/scream",
-                "stream": true
-            }
+            "attraction/towerofterror/scream"
         ]
     }
 }
