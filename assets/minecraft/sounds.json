@@ -232,5 +232,17 @@
         "sounds": [
             "attraction/towerofterror/scream"
         ]
+    },
+    "attraction.anna_and_elsas_frozenjourney.show": {
+        "category": "master",
+        "sounds": [
+            "attraction/annaandelsasfrozenjourney/show"
+        ]
+    },
+    "attraction.anna_and_elsas_frozenjourney.showcancel": {
+        "category": "master",
+        "sounds": [
+            "attraction/annaandelsasfrozenjourney/showcancel"
+        ]
     }
 }
