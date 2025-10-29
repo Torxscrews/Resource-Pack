@@ -197,7 +197,7 @@
             "attraction/towerofterror/informationannouncements"
         ]
     },
-    "attraction.towerofterror.preboardingannouncement": {
+    "attraction.towerofterror.prebanc": {
         "category": "master",
         "sounds": [
             "attraction/towerofterror/preboardingannouncement"
