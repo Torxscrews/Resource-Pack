@@ -1,10 +1,4 @@
 {
-    "bgm.1": {
-        "category": "master",
-        "sounds": [
-            "bgm/1"
-        ]
-    },
     "bgm.audio_check_track": {
         "category": "master",
         "sounds": [
